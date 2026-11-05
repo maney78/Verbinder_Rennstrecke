@@ -54,8 +54,8 @@
     },
     {
       "atomType": "Rectangle",
-      "x": 0.2814,
-      "y": 0.6521,
+      "x": 0.2803,
+      "y": 0.6569,
       "uniqueID": "id-4",
       "ioValues": [
         {
@@ -64,8 +64,7 @@
         },
         {
           "name": "y length",
-          "ioValue": 20,
-          "currentEquation": "20"
+          "ioValue": 16
         }
       ]
     },
@@ -81,8 +80,7 @@
         },
         {
           "name": "height",
-          "ioValue": 10,
-          "currentEquation": "10"
+          "ioValue": 9
         }
       ]
     }
